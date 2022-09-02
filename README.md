@@ -9,8 +9,8 @@ Website: https://openweathermap.org/appid
 
 API Key:<br/>
 Location Keys <br/>
-  Tacoma: <br/>
-  University Place: <br/>
-  Wellington: <br/>
+&nbsp;&nbsp;&nbsp;Tacoma: <br/>
+&nbsp;&nbsp;&nbsp;University Place: <br/>
+&nbsp;&nbsp;&nbsp;Wellington: <br/>
   
 Note: Could try and see if I can send a call to openweathermap with a location name, return the location key, and run a script to auto update the config file. 
