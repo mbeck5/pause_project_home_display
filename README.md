@@ -4,12 +4,13 @@ For work sabbatical, I am going to work on a home display. I plan on incorporati
 
 
 
-Weather API - OpenWeather
+# Weather API - OpenWeather
 Website: https://openweathermap.org/appid
-API Key: 
-Location Keys: 
-  Tacoma: 
-  University Place: 
-  Wellington: 
+
+API Key:<br/>
+Location Keys <br/>
+  Tacoma: <br/>
+  University Place: <br/>
+  Wellington: <br/>
   
 Note: Could try and see if I can send a call to openweathermap with a location name, return the location key, and run a script to auto update the config file. 
