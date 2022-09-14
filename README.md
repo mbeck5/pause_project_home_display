@@ -32,5 +32,14 @@ npm i<br/>
 #### 2) Profile Switcher
 Github: https://github.com/tosti007/MMM-ProfileSwitcher<br/>
 
+Execute: 
+cd ~/MagicMirror/modules<br/>
+git clone https://github.com/tosti007/MMM-ProfileSwitcher.git<br/>
+
 #### 3) Voice Commands
-Gitub: 
+Gitub: https://github.com/Veldrovive/MMM-Voice-Commands
+
+Execute: <br/><br/>
+cd ~/MagicMirror/mo<br/>dules<br/>
+git clone https://github.com/Veldrovive/MMM-Voice-Commands.git<br/>
+cd MMM-Voice-Commands && npm i<br/>
