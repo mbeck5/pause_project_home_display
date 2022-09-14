@@ -1,6 +1,6 @@
 # Fast Pause Project - Home Automation Display
 
-For work sabbatical, I am going to work on a home display. I plan on incorporating many different forms of automation for my home while consolidating it all into a home display. My day 1 plan is to use Magic Mirror as the basis for my home display and use Google Assistant + IFTT for home automation.
+This project is for a home display running on a raspberry pi 3B. I plan on incorporating many different forms of automation for my home while consolidating it all into a home display. My day 1 plan is to use Magic Mirror as the foundation for my home display and use Google Assistant + IFTT for home automation.
 
 
 
@@ -12,8 +12,8 @@ Location Keys <br/>
 &nbsp;&nbsp;&nbsp;Tacoma, Washington: 5812944 <br/>
 &nbsp;&nbsp;&nbsp;University Place, Washington: 5814450<br/>
 &nbsp;&nbsp;&nbsp;Wellington, New Zealand: 2179537<br/>
-  
-Note: Could try and see if I can send a call to openweathermap with a location name, return the location key, and run a script to auto update the config file. 
+
+
 
 ## MMM Modules
 
