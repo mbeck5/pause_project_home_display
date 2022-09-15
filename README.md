@@ -23,7 +23,7 @@ Prereq: NPM Ping<br/>
 &nbsp;&nbsp;- https://www.npmjs.com/package/ping<br/>
 &nbsp;&nbsp;- install command: npm install ping<br/>
 
-Execute: <br/>
+Execute:<br/>
 cd ~/MagicMirror/modules/<br/>
 git clone https://github.com/PoOwAa/MMM-network-signal.git<br/>
 cd MMM-network-signal<br/>
@@ -32,14 +32,14 @@ npm i<br/>
 #### 2) Profile Switcher
 Github: https://github.com/tosti007/MMM-ProfileSwitcher<br/>
 
-Execute: 
+Execute:<br/>
 cd ~/MagicMirror/modules<br/>
 git clone https://github.com/tosti007/MMM-ProfileSwitcher.git<br/>
 
 #### 3) Voice Commands
 Gitub: https://github.com/Veldrovive/MMM-Voice-Commands
 
-Execute: <br/><br/>
+Execute:<br/>
 cd ~/MagicMirror/mo<br/>dules<br/>
 git clone https://github.com/Veldrovive/MMM-Voice-Commands.git<br/>
 cd MMM-Voice-Commands && npm i<br/>
